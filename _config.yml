@@ -1,0 +1,28 @@
+name: AshHasen
+favicon: null
+layout_spectrum: 0.8904674146324396
+typography_spectrum: 0.14916352834552526
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.5035573376808316
+  lightness: 0.14305766113102436
+  saturation: 0.35072933649644256
+  rhythmicContrast: 0.5798551093321294
+purpose: []
