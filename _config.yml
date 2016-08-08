@@ -1,29 +1,41 @@
-name: AshHasen
-favicon: null
-layout_spectrum: 0.25881
-typography_spectrum: 0.58921
 title: 'Producer '
+purpose: []
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+color:
+  saturation: 1
+  brandStrength: 0.5161117
+  lightness: 1
+  brandColors:
+    - '#53422E'
+    - '#FFD694'
+    - '#AF8461'
+    - '#FFFFFF'
+    - '#ACAFB8'
+  rhythmicContrast: 0.6417831
 cta:
-  domain: null
   bucket: null
   version: null
+  domain: null
 analytics:
+  twitter: null
   google: null
   facebook: null
-  twitter: null
+favicon: null
+name: AshHasen
 opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#000000'
-    - '#374c8d'
-    - '#ffeeff'
-    - '#402618'
-    - '#98879a'
-  brandStrength: 0.5
-  lightness: 0.4375
-  saturation: 0.5
-  rhythmicContrast: 0.75
-purpose: []
+typography_spectrum: 0.58921
+layout_spectrum: 0.5214823
