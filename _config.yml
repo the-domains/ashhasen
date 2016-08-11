@@ -6,23 +6,23 @@ collections:
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
+    permalink:
+      path: '/:title/'
 color:
   saturation: 1
-  brandStrength: 0.5161117
-  lightness: 1
+  brandStrength: 1
+  lightness: 0.3807734
   brandColors:
-    - '#53422E'
-    - '#FFD694'
-    - '#AF8461'
-    - '#FFFFFF'
-    - '#ACAFB8'
-  rhythmicContrast: 0.6417831
+    - '#648FB9'
+    - '#365B87'
+    - '#FEFEFE'
+    - '#0E181A'
+    - '#C7C7AB'
+  rhythmicContrast: 1
 cta:
   bucket: null
   version: null
@@ -31,11 +31,11 @@ analytics:
   twitter: null
   google: null
   facebook: null
-favicon: null
 name: AshHasen
+favicon: null
 opengraph:
   image: null
   type: null
   appId: null
-typography_spectrum: 0.58921
-layout_spectrum: 0.5214823
+typography_spectrum: 0
+layout_spectrum: 0.5236305
